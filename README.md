@@ -2,17 +2,17 @@
 Implementação de um sistema cadastral em Java, utilizando os recursos da programação orientada a objetos e a persistência em arquivos binários.
 
 ### TODO
-- [ ] 1º Procedimento | Criação das Entidades e Sistema de Persistência
-  - [ ] Criação do pacote model
-  - [ ] Criação das entidades
-  - [ ] Criação dos gerenciadores
-  - [ ] Alteração e finalização do método main
-  - [ ] Verificar as funcionalidades solicitadas e os arquivos gerados
+- [X] 1º Procedimento | Criação das Entidades e Sistema de Persistência
+  - [X] Criação do pacote model
+  - [X] Criação das entidades
+  - [X] Criação dos gerenciadores
+  - [X] Alteração e finalização do método main
+  - [X] Verificar as funcionalidades solicitadas e os arquivos gerados
 
-- [ ] 2º Procedimento | Criação do Cadastro em Modo Texto
-  - [ ] Alteração do método main para implementação do cadastro em modo texto
-  - [ ] Ajustar as características para obter uma execução semelhante ao que foi pedido
-  - [ ] Verificar as funcionalidades solicitadas e os arquivos gerados
+- [X] 2º Procedimento | Criação do Cadastro em Modo Texto
+  - [X] Alteração do método main para implementação do cadastro em modo texto
+  - [X] Ajustar as características para obter uma execução semelhante ao que foi pedido
+  - [X] Verificar as funcionalidades solicitadas e os arquivos gerados
 
 - [ ] Relatório de Prática em PDF (1º Procedimento)
   - [ ] Título da Prática
